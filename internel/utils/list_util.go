@@ -1,6 +1,6 @@
 package utils
 
-import "github.com/wgzhulin/algo-go/internel/list"
+import "github.com/maodou24/algorithm-go/internel/list"
 
 func NewList(s []int) *list.Node {
 	head := &list.Node{}

@@ -1,6 +1,6 @@
 package list
 
-import "github.com/wgzhulin/algo-go/internel/list"
+import "github.com/maodou24/algorithm-go/internel/list"
 
 func intersection(list1 *list.Node, list2 *list.Node) *list.Node {
 	var s1, s2 []*list.Node

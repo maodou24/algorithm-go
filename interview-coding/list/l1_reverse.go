@@ -1,7 +1,7 @@
 package list
 
 import (
-	"github.com/wgzhulin/algo-go/internel/list"
+	"github.com/maodou24/algorithm-go/internel/list"
 )
 
 func reverse(head *list.Node) *list.Node {

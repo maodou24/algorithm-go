@@ -1,8 +1,8 @@
 package list
 
 import (
-	"github.com/wgzhulin/algo-go/internel/list"
-	"github.com/wgzhulin/algo-go/internel/utils"
+	"github.com/maodou24/algorithm-go/internel/list"
+	"github.com/maodou24/algorithm-go/internel/utils"
 	"testing"
 )
 

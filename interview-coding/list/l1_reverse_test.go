@@ -1,8 +1,8 @@
 package list
 
 import (
+	"github.com/maodou24/algorithm-go/internel/utils"
 	"github.com/stretchr/testify/assert"
-	"github.com/wgzhulin/algo-go/internel/utils"
 	"testing"
 )
 
